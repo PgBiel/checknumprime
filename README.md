@@ -2,6 +2,7 @@
 
 To check if a number is prime. Make sure you give a number under 4294967295
 It, however, does only accept 1 as a prime IF you feed `true` as the 2nd argument. By default it returns 1 and -1 as NOT prime.
+**Maximum accepted number is Number.MAX_SAFE_INTEGER** (9007199254740991) **and the Minimum is Number.MIN_SAFE_INTEGER** (-9007199254740991).
 
 #### Node.js:
 npm package: `npm install checknumprime`
