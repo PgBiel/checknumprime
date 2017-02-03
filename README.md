@@ -4,6 +4,7 @@ To check if a number is prime. Make sure you give a number under 4294967295
 It, however, does accept 1 as a prime. To make it ignore 1 and -1, feed `true` as second argument.
 
 #### Node.js:
+npm package: `npm install checknumprime`
 
 ```js
 var isPrime = require("checknumprime").isPrime;

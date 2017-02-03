@@ -1,0 +1,24 @@
+{
+  "name": "checknumprime",
+  "version": "1.0.0",
+  "description": "Check if a number is prime",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo It werkz yay"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PgBiel/checknumprime.git"
+  },
+  "keywords": [
+    "math",
+    "prime",
+    "numbers"
+  ],
+  "author": "PgSuper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PgBiel/checknumprime/issues"
+  },
+  "homepage": "https://github.com/PgBiel/checknumprime#readme"
+}
