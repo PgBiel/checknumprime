@@ -17,7 +17,7 @@ isPrime(-1, true); //false
 
 #### Browser:
 ```html
-<script src="placeholder"></script>
+<script src="https://cdn.rawgit.com/PgBiel/checknumprime/master/main.js"></script>
 ```
 then
 ```js
